@@ -29,7 +29,7 @@ function App() {
   return (
     <>
       <div className="flex flex-row">
-        {/* Left Section: Sidebar Navigation */}
+    
         <div className="w-3/10">
           <ul className="hidden fixed z-10 h-screen bg-white flex flex-col justify-center list-none pl-16 sm:pl-36 sm:w-88 sm:flex">
             {["cerebro", "rootex", "gasper", "watchdog", "backdoor", "studyportal", "erdos", "playctf"].map((id) => (
