@@ -48,9 +48,9 @@ function App() {
 
 
 
-        {/* Right Section: Project Descriptions */}
+        
         <div className="w-7/10 ml-10">
-          {/* Cerebro Section */}
+          
           <div  id="cerebro" className="pt-60 sm:pt-navbar sm:h-screen flex justify-end items-center fullpage section">
             <div  class="project-wrapper sm:w-5/6 flex flex-col-reverse sm:flex-row justify-center sm:items-center">
             <div  class="mt-20 sm:mt-0 sm:w-4/10 sm:pr-16">
@@ -68,7 +68,7 @@ function App() {
               <div  class="image self-center flex flex-row z-10">
           <img  src="https://portfolio-backend.sdslabs.co/media/projects/cerebro.png" class="w-full z-20"/><div data-v-80ea1c16="" class="w-140 sm:w-100 h-180 sm:h-148 self-end -mr-16 -mt-14 -mb-14 sm:-mt-8 sm:-mb-8 -ml-5/10 sm:-mr-0 sm:mr-26 bg-green"></div></div></div></div></div>
 
-          {/* Rootex Section */}
+      
           <div  id="rootex" className="pt-60 sm:pt-navbar sm:h-screen flex justify-end items-center fullpage section">
             <div  class="project-wrapper sm:w-5/6 flex flex-col-reverse sm:flex-row justify-center sm:items-center">
             <div  class="mt-20 sm:mt-0 sm:w-4/10 sm:pr-16">
@@ -89,9 +89,6 @@ function App() {
                 <div  class="w-140 sm:w-100 h-180 sm:h-148 self-end -mr-16 -mt-14 -mb-14 sm:-mt-8 sm:-mb-8 -ml-5/10 sm:-mr-0 sm:mr-26 bg-green"></div></div></div></div></div>
 
 
-
-
-          {/* Add other sections in the same format */}
           <div  id="gasper" class="pt-60 sm:pt-navbar sm:h-screen flex justify-end items-center fullpage section">
             <div  class="project-wrapper sm:w-5/6 flex flex-col-reverse sm:flex-row justify-center sm:items-center">
             <div  class="mt-20 sm:mt-0 sm:w-4/10 sm:pr-16">
